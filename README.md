@@ -5,7 +5,7 @@ tinker with anything!
 
 I really enjoy using small simple life "[problems](https://github.com/MacheteBang/MealBot)" to learn a new technology or design pattern.
 
-🔭 I'm currently working on a game for my family called "[More Jeeps!](https://github.com/MacheteBang/More-Jeeps)"
+🔭 I'm currently working on a game for my family called "[More Jeeps!](https://github.com/MacheteBang/MoreJeeps)"
 
 <!--
 **MacheteBang/MacheteBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
