@@ -1,4 +1,4 @@
-### Yello! 👋, I'm Jonathan!
+### Hello! 👋, I'm Jonathan!
 
 By ☀, I lead software engineering groups to build some amazing stuff, and by 🌒, I'm continuing to build my skills, primarily in the .NET & Azure space - but I'll still 
 tinker with anything!
