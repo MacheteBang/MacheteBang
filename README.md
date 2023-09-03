@@ -7,6 +7,8 @@ I really enjoy using small simple life "[problems](https://github.com/MacheteBan
 
 🔭 I'm currently working on a game for my family called "[More Jeeps!](https://github.com/MacheteBang/MoreJeeps)"
 
+Feel free to check me out at [https://jonathangregorsky.com](https://jonathangregorsky.com)!
+
 <!--
 **MacheteBang/MacheteBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
