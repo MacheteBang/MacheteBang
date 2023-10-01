@@ -1,4 +1,4 @@
-### Hello! 👋, I'm Jonathan!
+# Hello! 👋, I'm Jonathan!
 
 By ☀, I lead software engineering groups to build some amazing stuff, and by 🌒, I'm continuing to build my skills, primarily in the .NET & Azure space - but I'll still 
 tinker with anything!
@@ -6,20 +6,5 @@ tinker with anything!
 I really enjoy using small simple life "[problems](https://github.com/MacheteBang/MealBot)" to learn a new technology or design pattern.
 
 🔭 I'm currently working on a game for my family called "[More Jeeps!](https://github.com/MacheteBang/MoreJeeps)"
-
-Feel free to check me out at [https://jonathangregorsky.com](https://jonathangregorsky.com)!
-
-<!--
-**MacheteBang/MacheteBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently diving deeper into MVC and Vue.js
+📫 You can always reach me at [https://jonathangregorsky.com](https://jonathangregorsky.com)!
