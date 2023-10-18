@@ -5,6 +5,5 @@ tinker with anything!
 
 I really enjoy using small simple life "[problems](https://github.com/MacheteBang/MealBot)" to learn a new technology or design pattern.
 
-* 🔭 I'm currently working on a game for my family called "[More Jeeps!](https://github.com/MacheteBang/MoreJeeps)"
 * 🌱 I'm currently diving deeper into MVC and Vue.js
 * 📫 You can always reach me at [https://jonathangregorsky.com](https://jonathangregorsky.com)!
